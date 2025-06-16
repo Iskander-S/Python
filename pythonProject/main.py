@@ -6,7 +6,7 @@ import threading
 import time
 
 TOKEN = '7840762508:AAGoLhJhDW-mebn2VojRmDcSpybMmn7PAHo'
-ADMIN_ID = 929170747
+ADMIN_ID = 
 
 bot = telebot.TeleBot(TOKEN)
 user_data = {}
